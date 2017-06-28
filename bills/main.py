@@ -5,7 +5,7 @@ import meta
 import specific
 import pdf
 
-assembly_s, assembly_e = 17, 19 # start, end id of assembly
+assembly_s, assembly_e = 17, 20 # start, end id of assembly
 bill_s, bill_e = None, None     # start, end number of bill
 
 for a in range(assembly_s, assembly_e+1):
